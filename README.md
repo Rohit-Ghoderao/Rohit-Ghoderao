@@ -12,9 +12,9 @@ Welcome to my RPA Developer Portfolio! This repository showcases my technical sk
 - **Location**: Pune, India  
 - **Contact**:  
   - **Phone**: (+91) 9518510150  
-  - **Email**: rohit.ghoderao.naukri@gmail.com  
+  - **Email**: rohitghoderao.rpa@gmail.com  
   - **LinkedIn**: [Rohit Ghoderao](https://linkedin.com/in/rohit-ghoderao)  
-- **Experience**: 2.6 years of hands-on experience in Robotic Process Automation (RPA), specializing in Power Automate, Power Automate Desktop, and process optimization.  
+- **Experience**: 2.5 years of hands-on experience in Robotic Process Automation (RPA), specializing in Power Automate, Power Automate Desktop, and process optimization.  
 - **Certifications**:  
   - PL-900 Microsoft Power Platform Fundamentals  
   - SAP Certified Development Associate - ABAP with SAP NetWeaver 7.50  
