@@ -76,8 +76,8 @@ I am passionate about leveraging automation to solve complex problems and drive 
 
 | Metric                    | Value   |
 |---------------------------|---------|
-| **Total RPA Projects**     | 12      |
-| **Major Projects Delivered**| 8       |
+| **Total RPA Projects**     | 15      |
+| **Major Projects Delivered**| 10       |
 | **Manual Effort Reduced**  | **60%+**|
 | **Average Accuracy Gain**  | **10-15%** |
 
