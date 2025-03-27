@@ -1,4 +1,3 @@
-
 # RPA Developer
 
 Welcome to my RPA Developer Portfolio! This repository showcases my technical skills and experience in developing efficient automation solutions to streamline business processes.
@@ -12,9 +11,9 @@ Welcome to my RPA Developer Portfolio! This repository showcases my technical sk
 - **Location**: Pune, India  
 - **Contact**:  
   - **Phone**: (+91) 9518510150  
-  - **Email**: rohitghoderao.rpa@gmail.com  
+  - **Email**: rohitghoderao.github@gmail.com  
   - **LinkedIn**: [Rohit Ghoderao](https://linkedin.com/in/rohit-ghoderao)  
-- **Experience**: 2.5 years of hands-on experience in Robotic Process Automation (RPA), specializing in Power Automate, Power Automate Desktop, and process optimization.  
+- **Experience**: 2 years 10 months of hands-on experience in Robotic Process Automation (RPA), specializing in Power Automate, Power Automate Desktop, and process optimization.  
 - **Certifications**:  
   - PL-900 Microsoft Power Platform Fundamentals  
   - SAP Certified Development Associate - ABAP with SAP NetWeaver 7.50  
@@ -32,43 +31,78 @@ I am passionate about leveraging automation to solve complex problems and drive 
 | **Power Apps**             | Beginner: Learning to create low-code apps for dynamic business solutions  |
 | **Power BI**               | Beginner: Developing impactful dashboards and data-driven insights          |
 | **Python**                 | Beginner: Automating tasks, string manipulation, and data analysis      |
-| **MS SQL Server**          | Beginner: Writing complex queries, database optimization                |
+| **MS SQL Server**          | Intermediate: Writing complex queries, database optimization                |
 | **Linux**                  | Beginner: Shell scripting, system administration                           |
 | **Git**                    | Beginner: Version control, branching, merging                           |
 
 ---
 
+## 💂🏻‍♂️ Professional Experience
+
+### **RPA Developer | Vodafone Idea Limited (Quess Corp)**  
+**Mar 2024 – Present**  
+- Developed and deployed 3+ major automation projects, cutting manual work and enhancing efficiency.
+- Collaborated with cross-functional teams to gather business requirements and implemented scalable solutions.
+- Ensured compliance with governance and security protocols for all automated workflows.
+
+#### Key Projects:
+- **Active & False Alarms Deactivation & Deletion Logger**  
+  - Automated alarm data processing from FTP via SQL Server, categorizing alarms.
+  - Integrated with NMS Client for multi-vendor (Huawei, Ericsson, ZTE, Nokia) alarm resolution.
+  - Created automated service requests via HPSM Portal.
+
+- **HC Bots (Health Check Automations)**  
+  - SNOC Chatbot Healthcheck BOT – Ensured chatbot availability & responsiveness.
+  - DNS Healthcheck BOT – Automated DNS monitoring.
+  - Infoblox HC BOT – Scheduled health checks for Infoblox configurations.
+  - Nokia RSV Policy HC BOT – Verified compliance with Nokia standards.
+
+### **RPA Developer | Celebal Technologies**  
+**May 2022 – Dec 2023**  
+- Developed 3+ major automation projects across banking, education & manufacturing using Power Automate & PAD.
+- Provided mentorship to junior team members and ensured best practices in RPA development.
+
+#### Key Projects:
+- **HDFC Retails & Sales Automation**  
+  - Charge Online Check for Old Deferral Reports – Automated charge validation for financial transactions.
+  - Agri Casa Hold Removal Bot – Streamlined case processing & approvals for agri-loans.
+
+- **TimesPro Limited – Student Management Automation**  
+  - Integrated Salesforce with Power Automate, automating student document verification & eligibility checks.
+  - Sent automated emails for admission confirmations & alternative program suggestions.
+
+- **Hindalco Industries – SAP Automation**  
+  - Automated SAP transaction processes, eliminating manual data entry & improving reporting.
+  - Enhanced accuracy & processing speed for material & production workflows.
+
+---
+
 ## 📂 Project Highlights
 
-### **1. Charge Online Check for Land Records Deferral Pendency Report**  
+### **1. Active & False Alarms Deactivation & Deletion Logger**  
 - **Tools**: Power Automate, MS SQL Server  
-- **Description**: Automated the daily processing of 3 million data records using Power Automate.  
-- **Impact**: Reduced processing time by **50%** and improved reporting efficiency by delivering pivot reports for quick decision-making.
+- **Description**: Automated alarm data processing from FTP, integrated with NMS Client for multi-vendor resolution, and generated service requests via HPSM Portal.  
+- **Impact**: Reduced manual intervention by **50%** and enhanced alarm management efficiency.
 
-### **2. Commutr Bot – Employee Travel Fare Invoice Automation**  
-- **Tools**: Power Automate, AI Builder  
-- **Description**: Automated employee travel fare invoice processing with machine groups for continuous operations.  
-- **Impact**: Reduced workload by **40%**, improved invoice accuracy to **99%**, and provided 24/7 operational efficiency.
+### **2. HC Bots (Health Check Automations)**  
+- **Tools**: Power Automate, Power Automate Desktop  
+- **Description**: Automated health checks for SNOC Chatbot, DNS, Infoblox, and Nokia RSV Policy compliance.  
+- **Impact**: Improved system health monitoring and ensured compliance with standards.
 
-### **3. AD4 ECI/Huawei Trail Deletion**  
-- **Tools**: Power Automate Desktop  
-- **Description**: Automated request validation and streamlined trail deletion processes for faster data management.  
-- **Impact**: Improved operational consistency and reduced manual delays by **50%**.
+### **3. HDFC Retails & Sales Automation**  
+- **Tools**: Power Automate, MS SQL Server  
+- **Description**: Automated charge validation and agri-loan case processing, reducing manual effort.  
+- **Impact**: Reduced approval time by **40%** and improved process accuracy.
 
-### **4. Bajaj Electricals – Dataverse and SharePoint Integration**  
-- **Tools**: Power Automate  
-- **Description**: Integrated Dataverse and SharePoint to streamline document management and escalation workflows.  
-- **Impact**: Improved document management efficiency and reduced manual escalations by **60%**.
-
-### **5. Times Pro Limited – Salesforce Integration for Student Management**  
+### **4. TimesPro Limited – Student Management Automation**  
 - **Tools**: Power Automate, Salesforce API  
-- **Description**: Developed scheduled workflows to validate student details and automate document organization for program eligibility.  
-- **Impact**: Optimized student management, enhanced eligibility validation efficiency, and improved workflow consistency.
+- **Description**: Integrated Salesforce with Power Automate for document verification and eligibility checks.  
+- **Impact**: Enhanced document processing speed by **30%** and improved student management.
 
-### **6. Onsite RPA Projects – HDFC Bank & ICICI Bank**  
-- **Tools**: Power Automate Desktop, AI Builder  
-- **Description**: Delivered RPA solutions for data reconciliation, reporting, and automated banking processes.  
-- **Impact**: Reduced manual effort by **70%**, improving process accuracy and operational productivity.
+### **5. Hindalco Industries – SAP Automation**  
+- **Tools**: Power Automate, SAP  
+- **Description**: Automated SAP processes, eliminating manual data entry and improving reporting.  
+- **Impact**: Increased processing speed by **25%** and accuracy by **15%**.
 
 ---
 
@@ -76,8 +110,8 @@ I am passionate about leveraging automation to solve complex problems and drive 
 
 | Metric                    | Value   |
 |---------------------------|---------|
-| **Total RPA Projects**     | 15      |
-| **Major Projects Delivered**| 10       |
+| **Total RPA Projects**     | 8      |
+| **Major Projects Delivered**| 4       |
 | **Manual Effort Reduced**  | **60%+**|
 | **Average Accuracy Gain**  | **10-15%** |
 
@@ -104,7 +138,7 @@ I'm committed to continuous growth in the following areas:
 
 ## 🎓 Education
 
-- **B.Tech/B.E. in Electrical Engineering** – Pune University (2022) | Grade: **76%**
+- **B.E. Electrical Engineering** – Pune University (2022) | Grade: **76%**
 
 ---
 
@@ -118,9 +152,10 @@ I'm committed to continuous growth in the following areas:
 ## 🤝 Let’s Connect
 
 - **Phone**: (+91) 9518510150  
-- **Email**: rohitghoderao.rpa@gmail.com  
+- **Email**: rohitghoderao.github@gmail.com  
 - **LinkedIn**: [Rohit Ghoderao](https://linkedin.com/in/rohit-ghoderao)  
 
 ---
 
 > **"Automation is not just about reducing costs – it’s about creating new possibilities for growth, and I'm here to bring those possibilities to life."**
+
